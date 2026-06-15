@@ -1,0 +1,3 @@
+83188bfa8c1b1cbc4a0bad777f94337d4eac2de41c6f48fe59512ea936a5fff4  FlowDesk_0.5.5-beta_macOS-arm64.dmg
+aca16929063faa9c6dacae00b58b2f9b90a3afa183b5878291396b5c9b69bc74  FlowDesk_0.5.5-beta_macOS-Intel.dmg
+8b6af8c890ace7483265b89c7ad7ef2f55db60e3be2623fe1ec379dbe8473788  FlowDesk_0.5.5-beta_windows-x64.zip

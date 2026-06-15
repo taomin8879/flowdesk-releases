@@ -1,0 +1,36 @@
+name: 功能建议
+description: 提交 FlowDesk 工作流、视图或导入导出建议
+title: "[Feature] "
+labels: ["enhancement"]
+body:
+  - type: textarea
+    id: scenario
+    attributes:
+      label: 使用场景
+      placeholder: "你在什么工作场景里需要这个功能？例如工程台账、运维闭环、律所案件跟进等。"
+    validations:
+      required: true
+  - type: textarea
+    id: current
+    attributes:
+      label: 现在怎么处理
+      placeholder: "目前你用 Excel、文件夹、群消息或其他工具怎么处理？哪里最麻烦？"
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: 希望 FlowDesk 怎么做
+      placeholder: "描述你希望的结果即可，不需要写技术实现。"
+    validations:
+      required: true
+  - type: dropdown
+    id: priority
+    attributes:
+      label: 紧急程度
+      options:
+        - 只是建议
+        - 会明显提升效率
+        - 没有它暂时用不了
+    validations:
+      required: true

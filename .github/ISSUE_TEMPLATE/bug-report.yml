@@ -1,0 +1,43 @@
+name: 问题反馈
+description: 反馈 FlowDesk 安装、使用或更新问题
+title: "[Bug] "
+labels: ["bug"]
+body:
+  - type: dropdown
+    id: platform
+    attributes:
+      label: 使用平台
+      options:
+        - macOS Apple Silicon
+        - macOS Intel
+        - Windows x64
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: FlowDesk 版本
+      placeholder: "例如 0.5.5-beta"
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: 问题描述
+      placeholder: "发生了什么？你原本期待它怎样工作？"
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: 复现步骤
+      placeholder: "1. 打开...\n2. 点击...\n3. 出现..."
+    validations:
+      required: false
+  - type: textarea
+    id: attachments
+    attributes:
+      label: 截图或补充信息
+      placeholder: "可以拖入截图，但不要上传包含敏感工作内容的文件。"
+    validations:
+      required: false

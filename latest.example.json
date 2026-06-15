@@ -1,0 +1,19 @@
+{
+  "version": "0.5.5-beta",
+  "notes": "FlowDesk 0.5.5-beta：14 天全功能试用、离线激活、自动编号、自动建任务文件夹、Excel 导入导出和 5 种视图。",
+  "pub_date": "2026-06-01T08:30:00Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "signature": "REPLACE_WITH_TAURI_SIGNATURE",
+      "url": "https://github.com/taomin8879/flowdesk-releases/releases/latest/download/FlowDesk_0.5.5-beta_macOS-arm64.app.tar.gz"
+    },
+    "darwin-x86_64": {
+      "signature": "REPLACE_WITH_TAURI_SIGNATURE",
+      "url": "https://github.com/taomin8879/flowdesk-releases/releases/latest/download/FlowDesk_0.5.5-beta_macOS-Intel.app.tar.gz"
+    },
+    "windows-x86_64": {
+      "signature": "REPLACE_WITH_TAURI_SIGNATURE",
+      "url": "https://github.com/taomin8879/flowdesk-releases/releases/latest/download/FlowDesk_0.5.5-beta_windows-x64.nsis.zip"
+    }
+  }
+}

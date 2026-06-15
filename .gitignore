@@ -1,0 +1,8 @@
+releases/
+*.dmg
+*.exe
+*.msi
+*.zip
+*.tar.gz
+*.sig
+latest.json
