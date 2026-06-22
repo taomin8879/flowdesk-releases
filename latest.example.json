@@ -1,19 +1,19 @@
 {
-  "version": "0.5.5-beta",
-  "notes": "FlowDesk 0.5.5-beta：14 天全功能试用、离线激活、自动编号、自动建任务文件夹、Excel 导入导出和 5 种视图。",
-  "pub_date": "2026-06-01T08:30:00Z",
+  "version": "0.0.0",
+  "notes": "FlowDesk V0 正式版：14 天全功能试用、离线激活、自动编号、自动建任务文件夹、Excel 导入导出和 5 种视图。注意：Tauri updater 的 version 字段必须使用应用内部 SemVer，不要直接写 V0。",
+  "pub_date": "2026-06-22T07:26:42Z",
   "platforms": {
     "darwin-aarch64": {
       "signature": "REPLACE_WITH_TAURI_SIGNATURE",
-      "url": "https://github.com/taomin8879/flowdesk-releases/releases/latest/download/FlowDesk_0.5.5-beta_macOS-arm64.app.tar.gz"
+      "url": "https://github.com/taomin8879/flowdesk-releases/releases/latest/download/FlowDesk_V0_macOS-arm64.app.tar.gz"
     },
     "darwin-x86_64": {
       "signature": "REPLACE_WITH_TAURI_SIGNATURE",
-      "url": "https://github.com/taomin8879/flowdesk-releases/releases/latest/download/FlowDesk_0.5.5-beta_macOS-Intel.app.tar.gz"
+      "url": "https://github.com/taomin8879/flowdesk-releases/releases/latest/download/FlowDesk_V0_macOS-Intel.app.tar.gz"
     },
     "windows-x86_64": {
       "signature": "REPLACE_WITH_TAURI_SIGNATURE",
-      "url": "https://github.com/taomin8879/flowdesk-releases/releases/latest/download/FlowDesk_0.5.5-beta_windows-x64.nsis.zip"
+      "url": "https://github.com/taomin8879/flowdesk-releases/releases/latest/download/FlowDesk_V0_windows-x64.nsis.zip"
     }
   }
 }
