@@ -2,6 +2,24 @@
 
 FlowDesk V0 是当前公开正式版，适合从 Excel 工作一本帐迁移到本地优先桌面工具。
 
+## 产品截图
+
+### 今日视图
+
+<img src="https://github.com/taomin8879/flowdesk-releases/releases/download/v0/flowdesk-today.png" alt="FlowDesk 今日视图" width="900">
+
+### 一本帐
+
+<img src="https://github.com/taomin8879/flowdesk-releases/releases/download/v0/flowdesk-ledger.png" alt="FlowDesk 一本帐视图" width="900">
+
+### 月历视图
+
+<img src="https://github.com/taomin8879/flowdesk-releases/releases/download/v0/flowdesk-calendar.png" alt="FlowDesk 月历视图" width="900">
+
+### 看板视图
+
+<img src="https://github.com/taomin8879/flowdesk-releases/releases/download/v0/flowdesk-kanban.png" alt="FlowDesk 看板视图" width="900">
+
 ## 下载
 
 - macOS Apple Silicon: `FlowDesk_V0_macOS-arm64.dmg`
